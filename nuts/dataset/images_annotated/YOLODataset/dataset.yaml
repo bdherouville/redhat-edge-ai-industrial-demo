@@ -1,6 +1,0 @@
-train: ./images_annotated/YOLODataset/images/train/
-val: ./images_annotated/YOLODataset/images/val/
-
-nc: 2
-
-names: ['Nut', 'Broken_Nut']
